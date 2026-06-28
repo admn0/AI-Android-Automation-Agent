@@ -1,0 +1,6 @@
+{
+  "name": "AI Automation Agent",
+  "description": "An advanced AI-powered system automation agent that controls Android tasks via Accessibility Services, features a floating overlay UI, and executes complex natural language instructions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
